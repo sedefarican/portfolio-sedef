@@ -19,3 +19,4 @@ Projeyi klonlayarak üzerinde değişiklik yapabilirsiniz.
 ## Yazarlar
 
 - [Sedef Arıcan](https://github.com/sedefarican) - Proje Sahibi
+### Siteye ulaşabilmek için [buraya](https://sedefarican.netlify.app/) tıklayabilirsiniz.
